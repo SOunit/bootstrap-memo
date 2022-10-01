@@ -4,6 +4,14 @@
 
   - good padding
 
+- `container`
+
+  - to make content center
+
+- `navbar-expand-sm`
+  - for responsive and collapse
+    - what is benefit? need more search
+
 # color
 
 - `bg-dark`
