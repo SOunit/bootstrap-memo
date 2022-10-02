@@ -21,3 +21,9 @@ https://www.udemy.com/course/complete-aspnet-core-21-course/learn/lecture/293327
 - `dark-overlay` for background image
 - `home-inner container` for content
 - `d-none`, `d-lg-block` - show in lg screen only
+- `d-flex` - display flex
+- `bg-primary`
+- `text-center`
+- `card`,`card-form`, `card-body`
+- `form-group`, `form-control`, `form-control-lg`
+- `btn`, `btn-outline-light`, `btn-block`

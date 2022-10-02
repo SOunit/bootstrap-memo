@@ -14,6 +14,14 @@
 - complex style
 - nested override
 
-# utilities
+# utilities for PC only container
 
 - `d-none`, `d-lg-block` - show in lg screen only
+
+# utilities for form
+
+- `bg-primary`
+- `text-center`
+- `card`,`card-form`, `card-body`
+- `form-group`, `form-control`, `form-control-lg`
+- `btn`, `btn-outline-light`, `btn-block`
