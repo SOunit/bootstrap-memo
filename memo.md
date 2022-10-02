@@ -13,3 +13,7 @@
 
 - complex style
 - nested override
+
+# utilities
+
+- `d-none`, `d-lg-block` - show in lg screen only
